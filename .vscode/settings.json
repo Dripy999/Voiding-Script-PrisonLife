@@ -1,0 +1,30 @@
+{
+    "Lua.diagnostics.globals": [
+        "getgenv",
+        "workspace",
+        "spawn",
+        "getGuns",
+        "Color3",
+        "shared",
+        "game",
+        "Enum",
+        "highSpeed",
+        "flashSpeed",
+        "CFrame",
+        "script",
+        "getNextMovement",
+        "Vector3",
+        "wait",
+        "camera"
+    ],
+    "Lua.diagnostics.disable": [
+        "deprecated",
+        "redefined-local"
+    ],
+    "robloxLsp.diagnostics.globals": [
+        "Script"
+    ],
+    "robloxLsp.diagnostics.disable": [
+        "deprecated"
+    ]
+}
